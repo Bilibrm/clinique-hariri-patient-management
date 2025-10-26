@@ -1,0 +1,5 @@
+{
+  "name": "Clinique Hariri Patient Management",
+  "description": "A modern, responsive web application for managing patient records at Clinique Hariri Internationale. It allows for adding, viewing, updating, deleting, and printing patient information and health cards.",
+  "requestFramePermissions": []
+}
