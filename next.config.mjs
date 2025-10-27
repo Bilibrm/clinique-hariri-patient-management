@@ -25,6 +25,12 @@ const nextConfig = {
                 hostname: 'erp-api.cliniquehariri.com',
                 port: '',
                 pathname: '/storage/uploads/patients/avatars/**',
+            },
+            {
+                protocol: 'https',
+                hostname: 'erp-api.cliniquehariri.com',
+                port: '',
+                pathname: '/storage/uploads/users/avatars/**',
             }
         ],
     },
